@@ -1,0 +1,115 @@
+[
+  {
+    "id": "chevening-uk",
+    "name": "Chevening Scholarships",
+    "country": "United Kingdom",
+    "level": [
+      "Master's"
+    ],
+    "funding": "Fully funded",
+    "subject": [
+      "All fields (eligible courses)"
+    ],
+    "description": "UK government scholarship for eligible applicants to pursue a one-year master's degree at a UK university.",
+    "eligibility": "Eligibility depends on nationality, work experience, academic and other programme requirements. Check the current country-specific guidance.",
+    "benefits": "Typically includes tuition, travel and living-related support as described in the official award terms.",
+    "deadline": "Check the official website for the current application cycle.",
+    "officialUrl": "https://www.chevening.org/",
+    "status": "Verify current cycle"
+  },
+  {
+    "id": "erasmus-mundus-europe",
+    "name": "Erasmus Mundus Joint Masters",
+    "country": "Europe",
+    "level": [
+      "Master's"
+    ],
+    "funding": "Scholarships available",
+    "subject": [
+      "Multiple disciplines"
+    ],
+    "description": "International joint master's programmes delivered by partnerships of higher education institutions.",
+    "eligibility": "Requirements, participating countries and selection criteria vary by individual programme.",
+    "benefits": "Some selected students receive scholarships that contribute to participation costs and living expenses; check each programme.",
+    "deadline": "Different deadlines apply to each master's programme.",
+    "officialUrl": "https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals/students/erasmus-mundus-joint-masters",
+    "status": "Programme-specific"
+  },
+  {
+    "id": "fulbright-foreign-student",
+    "name": "Fulbright Foreign Student Program",
+    "country": "United States",
+    "level": [
+      "Master's",
+      "PhD"
+    ],
+    "funding": "Funding varies",
+    "subject": [
+      "Multiple disciplines"
+    ],
+    "description": "Graduate study and research opportunities in the United States for applicants from participating countries.",
+    "eligibility": "Country-specific eligibility, fields and application procedures apply. Applicants should use the official Fulbright country page.",
+    "benefits": "Award components vary by country and programme.",
+    "deadline": "Check the relevant country's Fulbright commission or U.S. Embassy.",
+    "officialUrl": "https://fulbrightprogram.org/",
+    "status": "Country-specific"
+  },
+  {
+    "id": "daad-germany",
+    "name": "DAAD Scholarship Database",
+    "country": "Germany",
+    "level": [
+      "Master's",
+      "PhD"
+    ],
+    "funding": "Varies by programme",
+    "subject": [
+      "Multiple disciplines"
+    ],
+    "description": "Searchable official database of funding opportunities for study, research and academic exchange in Germany.",
+    "eligibility": "Each scholarship has its own nationality, academic, language and subject requirements.",
+    "benefits": "Funding amounts and covered costs differ by award.",
+    "deadline": "Check the individual scholarship listing.",
+    "officialUrl": "https://www.daad.de/en/study-and-research-in-germany/scholarships/",
+    "status": "Database / programme-specific"
+  },
+  {
+    "id": "australia-rtp",
+    "name": "Research Training Program (RTP)",
+    "country": "Australia",
+    "level": [
+      "PhD",
+      "Research Master's"
+    ],
+    "funding": "Tuition and/or stipend support",
+    "subject": [
+      "Research fields"
+    ],
+    "description": "Australian Government funding framework supporting eligible domestic and overseas students undertaking higher degrees by research.",
+    "eligibility": "Universities administer RTP scholarships and set application and selection processes.",
+    "benefits": "May include tuition fee offset, stipend and allowances, depending on the university award.",
+    "deadline": "Check participating university deadlines.",
+    "officialUrl": "https://www.education.gov.au/research-block-grants/research-training-program",
+    "status": "University-administered"
+  },
+  {
+    "id": "nsp-india",
+    "name": "National Scholarship Portal (NSP)",
+    "country": "India",
+    "level": [
+      "Undergraduate",
+      "Postgraduate",
+      "Other"
+    ],
+    "funding": "Scheme-specific",
+    "subject": [
+      "Scheme-specific"
+    ],
+    "description": "Government of India portal for eligible central and selected state scholarship schemes.",
+    "eligibility": "Eligibility, income limits, category requirements and academic criteria depend on the individual scheme.",
+    "benefits": "Benefits vary by scheme. Read the official scheme guidelines.",
+    "deadline": "Check the portal for current scheme dates and notices.",
+    "officialUrl": "https://scholarships.gov.in/",
+    "status": "Check current scheme notices"
+  }
+]
